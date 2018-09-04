@@ -2,6 +2,7 @@ import csv
 import os
 
 resource_dir="/Users/jyj/OneDrive/A_A_Data_Analysis/MINSTP201808DATA2/03-Python/Homework/PyBank/Resources"
+
 file_path=os.path.join(resource_dir,"budget_data.csv")
 
 with open(file_path,newline="") as data_file:
