@@ -1,5 +1,5 @@
 ## About
-   - This is the homework project for unit 3(python) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
+   - This is the personal project for unit 3(python) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
 
 ## **_The original text of the homework assignment:_** 
 # Unit 3 | Assignment - Py Me Up, Charlie
